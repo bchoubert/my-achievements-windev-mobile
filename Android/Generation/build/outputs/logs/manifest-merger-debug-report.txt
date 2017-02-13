@@ -1,0 +1,177 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Mes Projets Mobile\EXPRESS_MY_ACHIEVEMENTS\Android\Generation\AndroidManifest.xml:2:1-3039
+	package
+		ADDED from D:\Mes Projets Mobile\EXPRESS_MY_ACHIEVEMENTS\Android\Generation\AndroidManifest.xml:2:70-117
+	android:versionName
+		ADDED from D:\Mes Projets Mobile\EXPRESS_MY_ACHIEVEMENTS\Android\Generation\AndroidManifest.xml:2:118-148
+	android:versionCode
+		ADDED from D:\Mes Projets Mobile\EXPRESS_MY_ACHIEVEMENTS\Android\Generation\AndroidManifest.xml:2:149-173
+		INJECTED from D:\Mes Projets Mobile\EXPRESS_MY_ACHIEVEMENTS\Android\Generation\AndroidManifest.xml
+		INJECTED from D:\Mes Projets Mobile\EXPRESS_MY_ACHIEVEMENTS\Android\Generation\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Mes Projets Mobile\EXPRESS_MY_ACHIEVEMENTS\Android\Generation\AndroidManifest.xml:2:11-69
+	android:installLocation
+		ADDED from D:\Mes Projets Mobile\EXPRESS_MY_ACHIEVEMENTS\Android\Generation\AndroidManifest.xml:2:174-204
+application
+ADDED from D:\Mes Projets Mobile\EXPRESS_MY_ACHIEVEMENTS\Android\Generation\AndroidManifest.xml:2:205-2436
+MERGED from [com.android.support:support-v4:22.2.1] D:\Mes Projets Mobile\EXPRESS_MY_ACHIEVEMENTS\Android\Generation\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:22.2.1] D:\Mes Projets Mobile\EXPRESS_MY_ACHIEVEMENTS\Android\Generation\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:22.2.1] D:\Mes Projets Mobile\EXPRESS_MY_ACHIEVEMENTS\Android\Generation\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from D:\Mes Projets Mobile\EXPRESS_MY_ACHIEVEMENTS\Android\Generation\AndroidManifest.xml:2:280-312
+	android:icon
+		ADDED from D:\Mes Projets Mobile\EXPRESS_MY_ACHIEVEMENTS\Android\Generation\AndroidManifest.xml:2:313-356
+	android:largeHeap
+		ADDED from D:\Mes Projets Mobile\EXPRESS_MY_ACHIEVEMENTS\Android\Generation\AndroidManifest.xml:2:357-381
+	android:name
+		ADDED from D:\Mes Projets Mobile\EXPRESS_MY_ACHIEVEMENTS\Android\Generation\AndroidManifest.xml:2:218-279
+activity#com.masociete.express_my_achievements.wdgen.GWDPEXPRESS_MY_ACHIEVEMENTS$WDLanceur
+ADDED from D:\Mes Projets Mobile\EXPRESS_MY_ACHIEVEMENTS\Android\Generation\AndroidManifest.xml:2:382-812
+	android:screenOrientation
+		ADDED from D:\Mes Projets Mobile\EXPRESS_MY_ACHIEVEMENTS\Android\Generation\AndroidManifest.xml:2:625-659
+	android:label
+		ADDED from D:\Mes Projets Mobile\EXPRESS_MY_ACHIEVEMENTS\Android\Generation\AndroidManifest.xml:2:452-484
+	android:configChanges
+		ADDED from D:\Mes Projets Mobile\EXPRESS_MY_ACHIEVEMENTS\Android\Generation\AndroidManifest.xml:2:554-624
+	android:theme
+		ADDED from D:\Mes Projets Mobile\EXPRESS_MY_ACHIEVEMENTS\Android\Generation\AndroidManifest.xml:2:485-553
+	android:name
+		ADDED from D:\Mes Projets Mobile\EXPRESS_MY_ACHIEVEMENTS\Android\Generation\AndroidManifest.xml:2:392-451
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\Mes Projets Mobile\EXPRESS_MY_ACHIEVEMENTS\Android\Generation\AndroidManifest.xml:2:660-801
+action#android.intent.action.MAIN
+ADDED from D:\Mes Projets Mobile\EXPRESS_MY_ACHIEVEMENTS\Android\Generation\AndroidManifest.xml:2:675-726
+	android:name
+		ADDED from D:\Mes Projets Mobile\EXPRESS_MY_ACHIEVEMENTS\Android\Generation\AndroidManifest.xml:2:683-724
+category#android.intent.category.LAUNCHER
+ADDED from D:\Mes Projets Mobile\EXPRESS_MY_ACHIEVEMENTS\Android\Generation\AndroidManifest.xml:2:726-785
+	android:name
+		ADDED from D:\Mes Projets Mobile\EXPRESS_MY_ACHIEVEMENTS\Android\Generation\AndroidManifest.xml:2:736-783
+activity#com.masociete.express_my_achievements.wdgen.GWDFEXPRESS_FEN_Profil$WDActiviteFenetre
+ADDED from D:\Mes Projets Mobile\EXPRESS_MY_ACHIEVEMENTS\Android\Generation\AndroidManifest.xml:2:812-1030
+	android:hardwareAccelerated
+		ADDED from D:\Mes Projets Mobile\EXPRESS_MY_ACHIEVEMENTS\Android\Generation\AndroidManifest.xml:2:993-1028
+	android:configChanges
+		ADDED from D:\Mes Projets Mobile\EXPRESS_MY_ACHIEVEMENTS\Android\Generation\AndroidManifest.xml:2:885-955
+	android:theme
+		ADDED from D:\Mes Projets Mobile\EXPRESS_MY_ACHIEVEMENTS\Android\Generation\AndroidManifest.xml:2:956-992
+	android:name
+		ADDED from D:\Mes Projets Mobile\EXPRESS_MY_ACHIEVEMENTS\Android\Generation\AndroidManifest.xml:2:822-884
+activity#com.masociete.express_my_achievements.wdgen.GWDFEXPRESS_FEN_Achievement$WDActiviteFenetre
+ADDED from D:\Mes Projets Mobile\EXPRESS_MY_ACHIEVEMENTS\Android\Generation\AndroidManifest.xml:2:1030-1253
+	android:hardwareAccelerated
+		ADDED from D:\Mes Projets Mobile\EXPRESS_MY_ACHIEVEMENTS\Android\Generation\AndroidManifest.xml:2:1216-1251
+	android:configChanges
+		ADDED from D:\Mes Projets Mobile\EXPRESS_MY_ACHIEVEMENTS\Android\Generation\AndroidManifest.xml:2:1108-1178
+	android:theme
+		ADDED from D:\Mes Projets Mobile\EXPRESS_MY_ACHIEVEMENTS\Android\Generation\AndroidManifest.xml:2:1179-1215
+	android:name
+		ADDED from D:\Mes Projets Mobile\EXPRESS_MY_ACHIEVEMENTS\Android\Generation\AndroidManifest.xml:2:1040-1107
+activity#com.masociete.express_my_achievements.wdgen.GWDFEXPRESS_FEN_Search$WDActiviteFenetre
+ADDED from D:\Mes Projets Mobile\EXPRESS_MY_ACHIEVEMENTS\Android\Generation\AndroidManifest.xml:2:1253-1471
+	android:hardwareAccelerated
+		ADDED from D:\Mes Projets Mobile\EXPRESS_MY_ACHIEVEMENTS\Android\Generation\AndroidManifest.xml:2:1434-1469
+	android:configChanges
+		ADDED from D:\Mes Projets Mobile\EXPRESS_MY_ACHIEVEMENTS\Android\Generation\AndroidManifest.xml:2:1326-1396
+	android:theme
+		ADDED from D:\Mes Projets Mobile\EXPRESS_MY_ACHIEVEMENTS\Android\Generation\AndroidManifest.xml:2:1397-1433
+	android:name
+		ADDED from D:\Mes Projets Mobile\EXPRESS_MY_ACHIEVEMENTS\Android\Generation\AndroidManifest.xml:2:1263-1325
+activity#fr.pcsoft.wdjava.ui.activite.WDActivite$BlankActivity
+ADDED from D:\Mes Projets Mobile\EXPRESS_MY_ACHIEVEMENTS\Android\Generation\AndroidManifest.xml:2:1471-1659
+	xmlns:android
+		ADDED from D:\Mes Projets Mobile\EXPRESS_MY_ACHIEVEMENTS\Android\Generation\AndroidManifest.xml:2:1481-1539
+	android:theme
+		ADDED from D:\Mes Projets Mobile\EXPRESS_MY_ACHIEVEMENTS\Android\Generation\AndroidManifest.xml:2:1609-1657
+	android:name
+		ADDED from D:\Mes Projets Mobile\EXPRESS_MY_ACHIEVEMENTS\Android\Generation\AndroidManifest.xml:2:1540-1608
+activity#fr.pcsoft.wdjava.ui.searchbar.WDSearchActivity
+ADDED from D:\Mes Projets Mobile\EXPRESS_MY_ACHIEVEMENTS\Android\Generation\AndroidManifest.xml:2:1659-2003
+	android:label
+		ADDED from D:\Mes Projets Mobile\EXPRESS_MY_ACHIEVEMENTS\Android\Generation\AndroidManifest.xml:2:1790-1822
+	xmlns:android
+		ADDED from D:\Mes Projets Mobile\EXPRESS_MY_ACHIEVEMENTS\Android\Generation\AndroidManifest.xml:2:1669-1727
+	android:name
+		ADDED from D:\Mes Projets Mobile\EXPRESS_MY_ACHIEVEMENTS\Android\Generation\AndroidManifest.xml:2:1728-1789
+intent-filter#android.intent.action.SEARCH
+ADDED from D:\Mes Projets Mobile\EXPRESS_MY_ACHIEVEMENTS\Android\Generation\AndroidManifest.xml:2:1823-1907
+action#android.intent.action.SEARCH
+ADDED from D:\Mes Projets Mobile\EXPRESS_MY_ACHIEVEMENTS\Android\Generation\AndroidManifest.xml:2:1838-1891
+	android:name
+		ADDED from D:\Mes Projets Mobile\EXPRESS_MY_ACHIEVEMENTS\Android\Generation\AndroidManifest.xml:2:1846-1889
+meta-data#android.app.searchable
+ADDED from D:\Mes Projets Mobile\EXPRESS_MY_ACHIEVEMENTS\Android\Generation\AndroidManifest.xml:2:1907-1992
+	android:resource
+		ADDED from D:\Mes Projets Mobile\EXPRESS_MY_ACHIEVEMENTS\Android\Generation\AndroidManifest.xml:2:1956-1990
+	android:name
+		ADDED from D:\Mes Projets Mobile\EXPRESS_MY_ACHIEVEMENTS\Android\Generation\AndroidManifest.xml:2:1918-1955
+provider#fr.pcsoft.wdjava.ui.searchbar.WDSearchHistory
+ADDED from D:\Mes Projets Mobile\EXPRESS_MY_ACHIEVEMENTS\Android\Generation\AndroidManifest.xml:2:2003-2194
+	android:authorities
+		ADDED from D:\Mes Projets Mobile\EXPRESS_MY_ACHIEVEMENTS\Android\Generation\AndroidManifest.xml:2:2133-2192
+	xmlns:android
+		ADDED from D:\Mes Projets Mobile\EXPRESS_MY_ACHIEVEMENTS\Android\Generation\AndroidManifest.xml:2:2013-2071
+	android:name
+		ADDED from D:\Mes Projets Mobile\EXPRESS_MY_ACHIEVEMENTS\Android\Generation\AndroidManifest.xml:2:2072-2132
+service#fr.pcsoft.wdjava.core.service.WDServiceLocal
+ADDED from D:\Mes Projets Mobile\EXPRESS_MY_ACHIEVEMENTS\Android\Generation\AndroidManifest.xml:2:2194-2264
+	android:name
+		ADDED from D:\Mes Projets Mobile\EXPRESS_MY_ACHIEVEMENTS\Android\Generation\AndroidManifest.xml:2:2203-2262
+meta-data#fr.pcsoft.first_window_name
+ADDED from D:\Mes Projets Mobile\EXPRESS_MY_ACHIEVEMENTS\Android\Generation\AndroidManifest.xml:2:2264-2354
+	android:value
+		ADDED from D:\Mes Projets Mobile\EXPRESS_MY_ACHIEVEMENTS\Android\Generation\AndroidManifest.xml:2:2318-2352
+	android:name
+		ADDED from D:\Mes Projets Mobile\EXPRESS_MY_ACHIEVEMENTS\Android\Generation\AndroidManifest.xml:2:2275-2317
+meta-data#fr.pcsoft.multidex
+ADDED from D:\Mes Projets Mobile\EXPRESS_MY_ACHIEVEMENTS\Android\Generation\AndroidManifest.xml:2:2354-2422
+	android:value
+		ADDED from D:\Mes Projets Mobile\EXPRESS_MY_ACHIEVEMENTS\Android\Generation\AndroidManifest.xml:2:2399-2420
+	android:name
+		ADDED from D:\Mes Projets Mobile\EXPRESS_MY_ACHIEVEMENTS\Android\Generation\AndroidManifest.xml:2:2365-2398
+uses-sdk
+ADDED from D:\Mes Projets Mobile\EXPRESS_MY_ACHIEVEMENTS\Android\Generation\AndroidManifest.xml:2:2436-2504
+MERGED from [com.android.support:support-v4:22.2.1] D:\Mes Projets Mobile\EXPRESS_MY_ACHIEVEMENTS\Android\Generation\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:22.2.1] D:\Mes Projets Mobile\EXPRESS_MY_ACHIEVEMENTS\Android\Generation\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:22.2.1] D:\Mes Projets Mobile\EXPRESS_MY_ACHIEVEMENTS\Android\Generation\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\AndroidManifest.xml:20:5-43
+	android:targetSdkVersion
+		ADDED from D:\Mes Projets Mobile\EXPRESS_MY_ACHIEVEMENTS\Android\Generation\AndroidManifest.xml:2:2473-2502
+	android:minSdkVersion
+		ADDED from D:\Mes Projets Mobile\EXPRESS_MY_ACHIEVEMENTS\Android\Generation\AndroidManifest.xml:2:2446-2472
+supports-screens
+ADDED from D:\Mes Projets Mobile\EXPRESS_MY_ACHIEVEMENTS\Android\Generation\AndroidManifest.xml:2:2504-2663
+	android:largeScreens
+		ADDED from D:\Mes Projets Mobile\EXPRESS_MY_ACHIEVEMENTS\Android\Generation\AndroidManifest.xml:2:2579-2606
+	android:smallScreens
+		ADDED from D:\Mes Projets Mobile\EXPRESS_MY_ACHIEVEMENTS\Android\Generation\AndroidManifest.xml:2:2522-2549
+	android:normalScreens
+		ADDED from D:\Mes Projets Mobile\EXPRESS_MY_ACHIEVEMENTS\Android\Generation\AndroidManifest.xml:2:2550-2578
+	android:xlargeScreens
+		ADDED from D:\Mes Projets Mobile\EXPRESS_MY_ACHIEVEMENTS\Android\Generation\AndroidManifest.xml:2:2607-2635
+	android:anyDensity
+		ADDED from D:\Mes Projets Mobile\EXPRESS_MY_ACHIEVEMENTS\Android\Generation\AndroidManifest.xml:2:2636-2661
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\Mes Projets Mobile\EXPRESS_MY_ACHIEVEMENTS\Android\Generation\AndroidManifest.xml:2:2663-2738
+	android:name
+		ADDED from D:\Mes Projets Mobile\EXPRESS_MY_ACHIEVEMENTS\Android\Generation\AndroidManifest.xml:2:2680-2736
+uses-permission#android.permission.INTERNET
+ADDED from D:\Mes Projets Mobile\EXPRESS_MY_ACHIEVEMENTS\Android\Generation\AndroidManifest.xml:2:2738-2799
+	android:name
+		ADDED from D:\Mes Projets Mobile\EXPRESS_MY_ACHIEVEMENTS\Android\Generation\AndroidManifest.xml:2:2755-2797
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from D:\Mes Projets Mobile\EXPRESS_MY_ACHIEVEMENTS\Android\Generation\AndroidManifest.xml:2:2799-2869
+	android:name
+		ADDED from D:\Mes Projets Mobile\EXPRESS_MY_ACHIEVEMENTS\Android\Generation\AndroidManifest.xml:2:2816-2867
+uses-feature#android.hardware.touchscreen
+ADDED from D:\Mes Projets Mobile\EXPRESS_MY_ACHIEVEMENTS\Android\Generation\AndroidManifest.xml:2:2869-2952
+	android:required
+		ADDED from D:\Mes Projets Mobile\EXPRESS_MY_ACHIEVEMENTS\Android\Generation\AndroidManifest.xml:2:2927-2950
+	android:name
+		ADDED from D:\Mes Projets Mobile\EXPRESS_MY_ACHIEVEMENTS\Android\Generation\AndroidManifest.xml:2:2883-2926
+uses-feature#android.hardware.wifi
+ADDED from D:\Mes Projets Mobile\EXPRESS_MY_ACHIEVEMENTS\Android\Generation\AndroidManifest.xml:2:2952-3028
+	android:required
+		ADDED from D:\Mes Projets Mobile\EXPRESS_MY_ACHIEVEMENTS\Android\Generation\AndroidManifest.xml:2:3003-3026
+	android:name
+		ADDED from D:\Mes Projets Mobile\EXPRESS_MY_ACHIEVEMENTS\Android\Generation\AndroidManifest.xml:2:2966-3002
